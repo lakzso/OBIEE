@@ -18,7 +18,7 @@ public class SessionEJBBean implements SessionEJB, SessionEJBLocal {
     }
     public String TakiTesztHello(){
   
-          return "Hello";
+          return "Helloka";
     } 
 }
 
