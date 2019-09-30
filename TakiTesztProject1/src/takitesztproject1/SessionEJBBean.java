@@ -29,7 +29,7 @@ public class SessionEJBBean implements SessionEJB, SessionEJBLocal {
           
         //step2 create  the connection object  
         Connection con=DriverManager.getConnection(  
-        "jdbc:oracle:thin:@//10.0.90.53:1521/pdborcl","system","Admin123");  
+        "jdbc:oracle:thin:@//10.0.90.53:1521/pdborcl","system","****");  
           
 
             
